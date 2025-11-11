@@ -83,7 +83,10 @@ python ml_model.py
 - Open-Meteo API
 
 ## Autores
-Shirley y Johanna Blanquicet
+Shirley Patricia García
+Johanna Blanquicet
+David Florez
 
 ## Fecha
 Noviembre 2025
+
